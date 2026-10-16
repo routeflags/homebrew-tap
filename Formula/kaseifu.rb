@@ -1,8 +1,8 @@
 class Kaseifu < Formula
   desc "Semantic file organization for macOS"
   homepage "https://github.com/smapira/kaseifu"
-  url "https://github.com/smapira/kaseifu/archive/refs/tags/v0.12.2.tar.gz"
-  sha256 "70b76240f441913b3a1e85fc8f1edba964c2475bd1d42ddbf54ba95cad58dfd3"
+  url "https://github.com/smapira/kaseifu/archive/refs/tags/v0.12.3.tar.gz"
+  sha256 "11b397b99217ed11d29ff4f89c9a82f063cfe0e587e24978ea5e276f9e54c5e3"
   license "MIT"
 
   depends_on "rust" => :build
